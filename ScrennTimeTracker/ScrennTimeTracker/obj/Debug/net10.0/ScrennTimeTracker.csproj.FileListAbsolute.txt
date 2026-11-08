@@ -1,0 +1,15 @@
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\bin\Debug\net10.0\ScrennTimeTracker.exe
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\bin\Debug\net10.0\ScrennTimeTracker.deps.json
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\bin\Debug\net10.0\ScrennTimeTracker.runtimeconfig.json
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\bin\Debug\net10.0\ScrennTimeTracker.dll
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\bin\Debug\net10.0\ScrennTimeTracker.pdb
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.AssemblyInfoInputs.cache
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.AssemblyInfo.cs
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.csproj.CoreCompileInputs.cache
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.sourcelink.json
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.dll
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\refint\ScrennTimeTracker.dll
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.pdb
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ScrennTimeTracker.genruntimeconfig.cache
+F:\IT files and 3D\C# Projects\ScreenTimeTracker\ScrennTimeTracker\ScrennTimeTracker\obj\Debug\net10.0\ref\ScrennTimeTracker.dll
